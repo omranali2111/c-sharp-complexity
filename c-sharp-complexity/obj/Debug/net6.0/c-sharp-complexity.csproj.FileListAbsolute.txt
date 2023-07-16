@@ -1,0 +1,15 @@
+C:\Users\ict\Desktop\code-TRA\c-sharp-complexity\c-sharp-complexity\bin\Debug\net6.0\c-sharp-complexity.exe
+C:\Users\ict\Desktop\code-TRA\c-sharp-complexity\c-sharp-complexity\bin\Debug\net6.0\c-sharp-complexity.deps.json
+C:\Users\ict\Desktop\code-TRA\c-sharp-complexity\c-sharp-complexity\bin\Debug\net6.0\c-sharp-complexity.runtimeconfig.json
+C:\Users\ict\Desktop\code-TRA\c-sharp-complexity\c-sharp-complexity\bin\Debug\net6.0\c-sharp-complexity.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-complexity\c-sharp-complexity\bin\Debug\net6.0\c-sharp-complexity.pdb
+C:\Users\ict\Desktop\code-TRA\c-sharp-complexity\c-sharp-complexity\obj\Debug\net6.0\c-sharp-complexity.csproj.AssemblyReference.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-complexity\c-sharp-complexity\obj\Debug\net6.0\c-sharp-complexity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ict\Desktop\code-TRA\c-sharp-complexity\c-sharp-complexity\obj\Debug\net6.0\c-sharp-complexity.AssemblyInfoInputs.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-complexity\c-sharp-complexity\obj\Debug\net6.0\c-sharp-complexity.AssemblyInfo.cs
+C:\Users\ict\Desktop\code-TRA\c-sharp-complexity\c-sharp-complexity\obj\Debug\net6.0\c-sharp-complexity.csproj.CoreCompileInputs.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-complexity\c-sharp-complexity\obj\Debug\net6.0\c-sharp-complexity.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-complexity\c-sharp-complexity\obj\Debug\net6.0\refint\c-sharp-complexity.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-complexity\c-sharp-complexity\obj\Debug\net6.0\c-sharp-complexity.pdb
+C:\Users\ict\Desktop\code-TRA\c-sharp-complexity\c-sharp-complexity\obj\Debug\net6.0\c-sharp-complexity.genruntimeconfig.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-complexity\c-sharp-complexity\obj\Debug\net6.0\ref\c-sharp-complexity.dll
